@@ -1,0 +1,24 @@
+{
+  "Participantes": [
+    {
+      "nombre": "Cristhian Cantero",
+      "edad": "24",
+      "dni": "212455"
+    },
+    {
+      "nombre": "Chino obertt",
+      "edad": "19",
+      "dni": "201455"
+    },
+    {
+      "nombre": "Chino obertt",
+      "edad": "18",
+      "dni": "201465"
+    },
+    {
+      "nombre": "Jose Chavez",
+      "edad": "18",
+      "dni": "201435"
+    }
+  ]
+}
